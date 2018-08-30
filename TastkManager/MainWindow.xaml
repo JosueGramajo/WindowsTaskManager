@@ -1,0 +1,34 @@
+﻿<Window x:Class="TastkManager.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TastkManager"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="592.164" Width="806.716">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <DataGrid AutoGenerateColumns="False" 
+          Height="562" 
+          HorizontalAlignment="Left" 
+          Name="dataGrid1" 
+          VerticalAlignment="Top" 
+          Width="800">
+            <DataGrid.Columns >
+                <DataGridTextColumn Header="Nombre" Binding="{Binding Path=NOMBRE}" MinWidth="50" />
+                <DataGridTextColumn Header="ID" Binding="{Binding Path=ID}" MinWidth="50" />
+                <DataGridTextColumn Header="Status" Binding="{Binding Path=STATUS}" MinWidth="50" />
+                <DataGridTextColumn Header="Memoria" Binding="{Binding Path=MEMORIA}" MinWidth="50" />
+                <DataGridTemplateColumn>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Click="ShowHideDetails">Detener Proceso</Button>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

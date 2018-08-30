@@ -1,0 +1,15 @@
+c:\users\josue\source\repos\TastkManager\TastkManager\bin\Debug\TastkManager.exe.config
+c:\users\josue\source\repos\TastkManager\TastkManager\bin\Debug\TastkManager.exe
+c:\users\josue\source\repos\TastkManager\TastkManager\bin\Debug\TastkManager.pdb
+c:\users\josue\source\repos\TastkManager\TastkManager\obj\Debug\TastkManager.csprojAssemblyReference.cache
+c:\users\josue\source\repos\TastkManager\TastkManager\obj\Debug\MainWindow.g.cs
+c:\users\josue\source\repos\TastkManager\TastkManager\obj\Debug\App.g.cs
+c:\users\josue\source\repos\TastkManager\TastkManager\obj\Debug\TastkManager_MarkupCompile.cache
+c:\users\josue\source\repos\TastkManager\TastkManager\obj\Debug\TastkManager_MarkupCompile.lref
+c:\users\josue\source\repos\TastkManager\TastkManager\obj\Debug\MainWindow.baml
+c:\users\josue\source\repos\TastkManager\TastkManager\obj\Debug\TastkManager.g.resources
+c:\users\josue\source\repos\TastkManager\TastkManager\obj\Debug\TastkManager.Properties.Resources.resources
+c:\users\josue\source\repos\TastkManager\TastkManager\obj\Debug\TastkManager.csproj.GenerateResource.cache
+c:\users\josue\source\repos\TastkManager\TastkManager\obj\Debug\TastkManager.csproj.CoreCompileInputs.cache
+c:\users\josue\source\repos\TastkManager\TastkManager\obj\Debug\TastkManager.exe
+c:\users\josue\source\repos\TastkManager\TastkManager\obj\Debug\TastkManager.pdb
